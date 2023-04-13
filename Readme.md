@@ -15,10 +15,9 @@
 
 ## Resource
 
-- https://cloudinary.com/cookbook#gsc.tab=0
-- https://cloudinary.com/cookbook/converting_an_image_format#gsc.tab=0
+- https://www.npmjs.com/package/cloudinary
 
 
 ## AWS Login
 
-> Ask Interviewer
+> Ask Interviewer 
