@@ -10,3 +10,15 @@
 -   Run simple NodeJS / Express app
 -   Set up domain + SSL (self-signed), domain is managed by route 53
 -   Write lambda {.js|.py} script to convert the 3 images from {.jpeg|.png} to WebP in the S3 bucket (not just the file name but the actual file type)
+
+
+
+## Resource
+
+- https://cloudinary.com/cookbook#gsc.tab=0
+- https://cloudinary.com/cookbook/converting_an_image_format#gsc.tab=0
+
+
+## AWS Login
+
+> Ask Interviewer
