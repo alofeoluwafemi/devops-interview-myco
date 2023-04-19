@@ -10,8 +10,8 @@
 -   Run simple NodeJS / Express app
 -   Set up domain + SSL (self-signed), domain is managed by route 53
 -   Write lambda {.js|.py} script to convert the 3 images from {.jpeg|.png} to WebP in the S3 bucket (not just the file name but the actual file type)
-
-
+-  Create a VPC endpoint to read the S3 images from EC2-{1}, Implement, any of the method to save the cost of S3 usage for live data. 
+- Configuring cross-origin resource sharing (CORS) on all the S3 bucket used
 
 ## Resource
 
